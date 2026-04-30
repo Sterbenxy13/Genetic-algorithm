@@ -46,7 +46,7 @@ def massiveTest(population: Population) -> None:
 
 # print([i.getBinaryValue() for i in (p.getPopulation())])
         
-p = Population(8, 100)
+p = Population(6, 100)
 
 massiveTest(p)
 
